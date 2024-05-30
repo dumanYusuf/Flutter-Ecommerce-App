@@ -30,4 +30,6 @@ shimmer: ^3.0.0
 firebase_storage: ^11.7.5
 image_picker: ^1.1.1
 card_swiper: ^3.0.1
-easy_localization: ^3.0.
+easy_localization: ^3.0.,
+https://github.com/dumanYusuf/Flutter-Ecommerce-App/assets/162339377/ac914f87-24d1-47b5-9c1b-6ee30dff0f32
+
