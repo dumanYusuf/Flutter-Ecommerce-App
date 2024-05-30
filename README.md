@@ -4,7 +4,6 @@ Flutter ile geliştirilmiş, Firebase destekli, modern ve kullanıcı dostu bir 
 -Kolay Kullanım: Sezgisel arayüzü sayesinde kullanıcılar ürünlere kolayca göz atabilir, sepetlerine ekleyebilir ve satın alabilirler.
 -Geniş Ürün Yelpazesi: Farklı kategorilerdeki binlerce ürüne erişim imkanı.
 -Akıllı Arama: İhtiyaç duydukları ürünleri hızlıca bulmalarına yardımcı olan güçlü bir arama özelliği.
--Kişiselleştirme: Kullanıcılara özel öneriler sunarak alışveriş deneyimini daha keyifli hale getirir.
 -Favoriler: Kullanıcılar beğendikleri ürünleri favorilerine ekleyebilirler.
 -Göz Alıcı Ürün Sunumu: CarouselSlider ile ürünlerin görsel olarak etkileyici bir şekilde sergilenmesi.
 -Favori ve Sepete Ürün Eklme,Silme,Ürün adeti artırma,
