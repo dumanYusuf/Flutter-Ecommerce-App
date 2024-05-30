@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "526108565067",
+    "project_id": "fir-eticaret",
+    "storage_bucket": "fir-eticaret.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526108565067:android:b728d9170a16424c3bf7ce",
+        "android_client_info": {
+          "package_name": "com.example.firebase_gelismis_eticaret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526108565067-o5a2u3v7uocvj0skqgbq8aou126oihh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_gelismis_eticaret",
+            "certificate_hash": "8b9ce316cabee54520f0a25f51f6846e5a85d70a"
+          }
+        },
+        {
+          "client_id": "526108565067-prrh5cgb757mbo8oo3t2bufudlrvtov8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnizEY87nqhgAZlOmFPPvIPamGCEJ8sh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526108565067-prrh5cgb757mbo8oo3t2bufudlrvtov8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "526108565067-ii0n30hdb239b6nes36qhosa6c9md99r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseGelismisEticaret"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
